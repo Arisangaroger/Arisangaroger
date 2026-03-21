@@ -50,7 +50,7 @@
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arisangaroger&show_icons=true&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6" width="48%" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisangaroger&layout=compact&theme=tokyonight&hide_border=true&title_color=3178C6&hide=html,css" width="45%" />
 </p>
 
