@@ -50,13 +50,10 @@
 
 ### 📊 Engineering Metrics
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisangaroger&layout=compact&theme=tokyonight&hide_border=true&title_color=3178C6&hide=html,css" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arisangaroger&theme=tokyonight&hide_border=true&stroke=3178C6&ring=3178C6&fire=3178C6" width="94%" />
-</p>
+
 
 ---
 
