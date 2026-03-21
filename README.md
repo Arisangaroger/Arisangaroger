@@ -57,24 +57,6 @@
 
 ---
 
-### 📁 Featured Repositories
-<table border="0">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Arisangaroger/project-one">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arisangaroger&repo=project-one&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Arisangaroger/project-two">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arisangaroger&repo=project-two&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/arisangaishimwe-roger-7016333b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
