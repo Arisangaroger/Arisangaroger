@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:0077B5&height=200&section=header&text=Arisanga%20Ishimwe%20Roger&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20TypeScript%20%26%20Next.js&descAlignY=55&descSize=18" width="100%" />
-</p>
+<h1 align="center">Arisanga Ishimwe Roger</h1>
+<p align="center"><b>Full Stack Engineer</b> · TypeScript & Next.js</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Type-Safe+Applications;Next.js+%26+Node.js;Web3+%26+Smart+Contracts" />
