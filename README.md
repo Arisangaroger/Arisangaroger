@@ -1,4 +1,4 @@
-<h1 align="center">Arisanga Ishimwe Roger</h1>
+<h1 align="center">Arisanga I. Roger</h1>
 <p align="center"><b>Full Stack Engineer</b> · TypeScript & Next.js</p>
 
 <p align="center">
