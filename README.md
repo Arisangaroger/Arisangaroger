@@ -1,5 +1,5 @@
 <h1 align="center">Arisanga I. Roger</h1>
-<p align="center"><b>Full Stack Engineer</b> · TypeScript & Next.js</p>
+<p align="center"><b>Full Stack Web3 Engineer</b> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Type-Safe+Applications;Next.js+%26+Node.js;Web3+%26+Smart+Contracts" />
