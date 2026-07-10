@@ -34,13 +34,7 @@ I'm a full stack engineer specializing in **Next.js, Node.js, and smart contract
 **DevOps & Tooling**
 `Docker` `AWS` `GitHub Actions` `Vercel` `Git`
 
-<br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,mongodb,solidity,docker,aws,git,tailwind" />
-</div>
-
-<br>
 
 ## Get in Touch
 
